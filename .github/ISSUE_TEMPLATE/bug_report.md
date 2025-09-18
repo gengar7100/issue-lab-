@@ -1,0 +1,19 @@
+2.	Nazwa pliku: .github/ISSUE_TEMPLATE/bug_report.md
+3.	Treść (prosty szablon Markdown):
+4.	---
+5.	name: Zgłoszenie błędu
+6.	about: Raport błędu w aplikacji
+7.	labels: bug
+8.	---
+9.	**Opis błędu**
+10.	Krótkie streszczenie problemu.
+11.	**Kroki do odtworzenia**
+12.	1. ...
+13.	2. ...
+14.	3. ...
+15.	**Oczekiwany rezultat**
+16.	...
+17.	**Faktyczny rezultat**
+18.	...
+19.	**Zrzuty ekranu / logi (opcjonalnie)**
+20.	...
